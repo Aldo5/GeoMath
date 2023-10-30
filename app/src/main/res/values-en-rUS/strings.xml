@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Opciones">
+        <item>Rectangle</item>
+        <item>Triangle</item>
+        <item>Rombo</item>
+    </string-array>
+
+    <string name="app_name">MathGeo</string>
+    <string name="Base">Base</string>
+    <string name="Altura">Height</string>
+    <string name="DMayor">larger diameter</string>
+    <string name="DMenor">smallest diameter</string>
+    <string name="areaID">Area: %f</string>
+    <string name="titulo">choose a formula</string>
+    <string name="noSepuede">This division cannot be performed</string>
+
+    <string name="faltanDos">Please enter both values</string>
+    <string name="faltaUno">Enter missing value </string>
+
+    <string name="autor">Creade by: Aldo Yael Guzmán Ramírez</string>
+    <string name="version">Versión 1.0</string>
+    <string name="resultado"></string>
+
+
+</resources>
